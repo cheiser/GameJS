@@ -1,0 +1,37 @@
+*.class
+*.classpath
+*.project
+*.prefs
+*.lock
+*.ini
+*.metadata
+*.db
+*.xml
+*.sln
+*.exe
+*.tlog
+*.cache
+
+
+# Folders
+obj/
+bin/
+Properties/
+music/
+js/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+.metadata/
+.settings/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+wallet.txt
+pocket.txt
+*.~*
